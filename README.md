@@ -1,4 +1,4 @@
-Drik Panchanga
+Drik Panchanga 
 ==============
 
 Observational Indian lunisolar calendar (Hindu Drig-ganita Panchanga) using
